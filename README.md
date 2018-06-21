@@ -1,0 +1,3 @@
+I have a love-hate relationship with branding. I really like it, and made a website to do it for me most of the time.
+
+I really like branding. I do. It’s fun to brand an app, a website, a company. You name it, I like branding it. The thing is, for most small projects, you don’t want to get bogged down in branding. If I’m making a fun website or coding a cool algorithm, I want it to look nice and convey a brand, but I don’t want to spend half my time working on that because it’s only a matter of time before I move onto the next project. I made Brand Central Station as a tool to quickly develop a brand. Quickly make a color palette, find a font that fits, and get images that work with what you’re making. It does all the simple branding you need and it does it instantly.
